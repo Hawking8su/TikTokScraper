@@ -1,0 +1,1750 @@
+[
+  {
+    "statusCode": 0,
+    "itemInfo": {
+      "itemStruct": {
+        "id": "7078975568166833409",
+        "desc": "Back when he was just 2. Old but gold \ud83d\ude02 #fyp",
+        "createTime": 1648202439,
+        "video": {
+          "id": "7078975568166833409",
+          "height": 1024,
+          "width": 576,
+          "duration": 19,
+          "ratio": "720p",
+          "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/9cf70d5404a7442d905c358dc0ca8fd3_1648202441?x-expires=1650175200&x-signature=2FMsh7xrfUv1L8OBCy7gMoCuysA%3D",
+          "originCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/6c4384a3bf634dcb8b63fbfef0f647f9_1648202440?x-expires=1650175200&x-signature=N1CJEGhXVx7U75pH5WU0x1hgEoM%3D",
+          "dynamicCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/1e5ca4c7ba934967804a15cb84695e1e_1648202441?x-expires=1650175200&x-signature=CMbMRt%2FVrxdbCkhgPaOy81mNE88%3D",
+          "playAddr": "https://v16-webapp.tiktok.com/c29dfd8a1c423eec91492a6617edacab/625bafc6/video/tos/alisg/tos-alisg-pve-0037/214b262c6d3a43e082cff9a996ac3e3e/?a=1988&br=3768&bt=1884&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=eXd.6Hy2Myq8Zi9-Lwe2NnYoyl7Gb&l=202204170012030102230841331035EA37&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ank0bzc6ZmpzOzMzODgzNEApaTVoOzRlNmVpNzg1MzwzOmc0M2decjQwMnJgLS1kLy1zczEwXmBjYWJhLmEtMjIvYzM6Yw%3D%3D&vl=&vr=",
+          "downloadAddr": "https://v16-webapp.tiktok.com/c29dfd8a1c423eec91492a6617edacab/625bafc6/video/tos/alisg/tos-alisg-pve-0037/214b262c6d3a43e082cff9a996ac3e3e/?a=1988&br=3768&bt=1884&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=eXd.6Hy2Myq8Zi9-Lwe2NnYoyl7Gb&l=202204170012030102230841331035EA37&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ank0bzc6ZmpzOzMzODgzNEApaTVoOzRlNmVpNzg1MzwzOmc0M2decjQwMnJgLS1kLy1zczEwXmBjYWJhLmEtMjIvYzM6Yw%3D%3D&vl=&vr=",
+          "shareCover": [
+            "",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/6c4384a3bf634dcb8b63fbfef0f647f9_1648202440~tplv-tiktok-play.jpeg?x-expires=1650758400&x-signature=PCX29HgH9LKH1o5mJvYK7VbsCVE%3D",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/6c4384a3bf634dcb8b63fbfef0f647f9_1648202440~tplv-tiktokx-share-play.jpeg?x-expires=1650758400&x-signature=yUtQ0fkKPBpdw%2FpTgVfgz2AF4TA%3D"
+          ],
+          "reflowCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/9cf70d5404a7442d905c358dc0ca8fd3_1648202441?x-expires=1650175200&x-signature=2FMsh7xrfUv1L8OBCy7gMoCuysA%3D",
+          "bitrate": 1929715,
+          "encodedType": "normal",
+          "format": "mp4",
+          "videoQuality": "normal",
+          "encodeUserTag": "",
+          "codecType": "h264",
+          "definition": "720p"
+        },
+        "author": {
+          "id": "268861292592181248",
+          "uniqueId": "naomineo",
+          "nickname": "Naomi",
+          "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/eeae1bee2adc528fc3afacb73b8fa8be.jpeg?x-expires=1650326400&x-signature=0k9u4yVqfZmN4bOpLe6reoK6icI%3D",
+          "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tiktok-obj/eeae1bee2adc528fc3afacb73b8fa8be.jpeg?x-expires=1650326400&x-signature=Yp3owNAN21Y%2BAIzP5o1LYuvxbXM%3D",
+          "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tiktok-obj/eeae1bee2adc528fc3afacb73b8fa8be.jpeg?x-expires=1650326400&x-signature=T57c6kNfG%2BYs8dXeF1fzCFupV%2B0%3D",
+          "signature": "Just human",
+          "verified": true,
+          "secUid": "MS4wLjABAAAA_gSazrJzfpR7AFZgEAfYoykOQrDFy_w8sarkKyMNsoouhTQD1WKa-jCSZbYgu1ca",
+          "secret": false,
+          "ftc": false,
+          "relation": 0,
+          "openFavorite": false,
+          "commentSetting": 0,
+          "duetSetting": 0,
+          "stitchSetting": 0,
+          "privateAccount": false,
+          "isADVirtual": false
+        },
+        "music": {
+          "id": "7078975562047736578",
+          "title": "original sound - Naomi",
+          "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7078975557903436545.mp3",
+          "coverThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/eeae1bee2adc528fc3afacb73b8fa8be.jpeg?x-expires=1650326400&x-signature=0k9u4yVqfZmN4bOpLe6reoK6icI%3D",
+          "coverMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tiktok-obj/eeae1bee2adc528fc3afacb73b8fa8be.jpeg?x-expires=1650326400&x-signature=Yp3owNAN21Y%2BAIzP5o1LYuvxbXM%3D",
+          "coverLarge": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tiktok-obj/eeae1bee2adc528fc3afacb73b8fa8be.jpeg?x-expires=1650326400&x-signature=T57c6kNfG%2BYs8dXeF1fzCFupV%2B0%3D",
+          "authorName": "Naomi",
+          "original": true,
+          "duration": 19,
+          "album": ""
+        },
+        "challenges": [
+          {
+            "id": "229207",
+            "title": "fyp",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          }
+        ],
+        "stats": {
+          "diggCount": 5600000,
+          "shareCount": 93800,
+          "commentCount": 41100,
+          "playCount": 37800000
+        },
+        "isActivityItem": false,
+        "duetInfo": {
+          "duetFromId": "0"
+        },
+        "originalItem": false,
+        "officalItem": false,
+        "textExtra": [
+          {
+            "awemeId": "",
+            "start": 41,
+            "end": 45,
+            "hashtagName": "fyp",
+            "hashtagId": "229207",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          }
+        ],
+        "secret": false,
+        "forFriend": false,
+        "digged": false,
+        "itemCommentStatus": 0,
+        "showNotPass": false,
+        "vl1": false,
+        "itemMute": false,
+        "authorStats": {
+          "followingCount": 2,
+          "followerCount": 1000000,
+          "heartCount": 28700000,
+          "videoCount": 97,
+          "diggCount": 5681,
+          "heart": 28700000
+        },
+        "privateItem": false,
+        "duetEnabled": false,
+        "stitchEnabled": true,
+        "shareEnabled": true,
+        "stickersOnItem": [
+          {
+            "stickerType": 4,
+            "stickerText": [
+              "Asking my son what he learnt in school",
+              "No, nothing\u2026",
+              "No, nothinggggg",
+              "Yes",
+              "Yes",
+              "No",
+              "Yes",
+              "NOTHING \ud83d\udc80"
+            ]
+          }
+        ],
+        "isAd": false,
+        "duetDisplay": 0,
+        "stitchDisplay": 0
+      }
+    },
+    "shareMeta": {
+      "title": "Naomi on TikTok",
+      "desc": "Back when he was just 2. Old but gold \ud83d\ude02 #fyp"
+    }
+  },
+  {
+    "statusCode": 0,
+    "itemInfo": {
+      "itemStruct": {
+        "id": "7080093395254856962",
+        "desc": "wasn\u2019t expecting this reaction \ud83d\ude2b\ud83d\udc94 #fyp #momvsdad",
+        "createTime": 1648462704,
+        "video": {
+          "id": "7080093395254856962",
+          "height": 1024,
+          "width": 576,
+          "duration": 71,
+          "ratio": "720p",
+          "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/e1ccc4c99df94534964a3f65e7c5cf05_1648462726?x-expires=1650175200&x-signature=rNcSEvz9kqA%2FSkoDSD7uLL0gg1U%3D",
+          "originCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/d62f07f55f9d4c12b62655d7d14f010e_1648462709?x-expires=1650175200&x-signature=WIt0FpkMlR92mLC2TTApMB7sM1c%3D",
+          "dynamicCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/606b9fc3e9c24b788f96bd871b8df92f_1648462721?x-expires=1650175200&x-signature=WbvvAj4aMfWUpsgrt%2B7nJOTqdN0%3D",
+          "playAddr": "https://v16-webapp.tiktok.com/64bb7ca51ea8254b1238ef448ca8de8d/625baffb/video/tos/alisg/tos-alisg-pve-0037/cac16877135647ceb6311da7e1eedbe7/?a=1988&br=3206&bt=1603&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=eXd.6Hy2Myq8ZW9-Lwe2N7PELl7Gb&l=202204170012040101921592382635B717&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=am86dDU6Zm9yPDMzODgzNEApO2Y4NzRnOTs7N2kzMzc6NmctanM1cjRvai1gLS1kLy1zc2M0LmIxYy1fNWBgYGFiMjM6Yw%3D%3D&vl=&vr=",
+          "downloadAddr": "https://v16-webapp.tiktok.com/64bb7ca51ea8254b1238ef448ca8de8d/625baffb/video/tos/alisg/tos-alisg-pve-0037/cac16877135647ceb6311da7e1eedbe7/?a=1988&br=3206&bt=1603&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=eXd.6Hy2Myq8ZW9-Lwe2N7PELl7Gb&l=202204170012040101921592382635B717&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=am86dDU6Zm9yPDMzODgzNEApO2Y4NzRnOTs7N2kzMzc6NmctanM1cjRvai1gLS1kLy1zc2M0LmIxYy1fNWBgYGFiMjM6Yw%3D%3D&vl=&vr=",
+          "shareCover": [
+            "",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/d62f07f55f9d4c12b62655d7d14f010e_1648462709~tplv-tiktok-play.jpeg?x-expires=1650758400&x-signature=vjqM60i4zmdwUVcs1GC%2FA9jjONQ%3D",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/d62f07f55f9d4c12b62655d7d14f010e_1648462709~tplv-tiktokx-share-play.jpeg?x-expires=1650758400&x-signature=02quJOXEurQMv0ay1BySD5li6S0%3D"
+          ],
+          "reflowCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/e1ccc4c99df94534964a3f65e7c5cf05_1648462726?x-expires=1650175200&x-signature=rNcSEvz9kqA%2FSkoDSD7uLL0gg1U%3D",
+          "bitrate": 1642040,
+          "encodedType": "normal",
+          "format": "mp4",
+          "videoQuality": "normal",
+          "encodeUserTag": "",
+          "codecType": "h264",
+          "definition": "720p"
+        },
+        "author": {
+          "id": "268861292592181248",
+          "uniqueId": "naomineo",
+          "nickname": "Naomi",
+          "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/eeae1bee2adc528fc3afacb73b8fa8be.jpeg?x-expires=1650326400&x-signature=0k9u4yVqfZmN4bOpLe6reoK6icI%3D",
+          "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tiktok-obj/eeae1bee2adc528fc3afacb73b8fa8be.jpeg?x-expires=1650326400&x-signature=Yp3owNAN21Y%2BAIzP5o1LYuvxbXM%3D",
+          "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tiktok-obj/eeae1bee2adc528fc3afacb73b8fa8be.jpeg?x-expires=1650326400&x-signature=T57c6kNfG%2BYs8dXeF1fzCFupV%2B0%3D",
+          "signature": "Just human",
+          "verified": true,
+          "secUid": "MS4wLjABAAAA_gSazrJzfpR7AFZgEAfYoykOQrDFy_w8sarkKyMNsoouhTQD1WKa-jCSZbYgu1ca",
+          "secret": false,
+          "ftc": false,
+          "relation": 0,
+          "openFavorite": false,
+          "commentSetting": 0,
+          "duetSetting": 0,
+          "stitchSetting": 0,
+          "privateAccount": false,
+          "isADVirtual": false
+        },
+        "music": {
+          "id": "6746993352891189249",
+          "title": "Monkeys Spinning Monkeys",
+          "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/ea8ca7768b2142be9cafe3284d9b97fa",
+          "coverThumb": "https://p16-amd-va.tiktokcdn.com/img/tos-useast2a-v-2774/baccdb3bc024418b9276ed236c584908~c5_100x100.jpeg",
+          "coverMedium": "https://p16-amd-va.tiktokcdn.com/img/tos-useast2a-v-2774/baccdb3bc024418b9276ed236c584908~c5_200x200.jpeg",
+          "coverLarge": "https://p16-amd-va.tiktokcdn.com/img/tos-useast2a-v-2774/baccdb3bc024418b9276ed236c584908~c5_720x720.jpeg",
+          "authorName": "Kevin MacLeod & Kevin The Monkey",
+          "original": false,
+          "duration": 60,
+          "album": "Monkeys Spinning Monkeys"
+        },
+        "challenges": [
+          {
+            "id": "229207",
+            "title": "fyp",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "3272426",
+            "title": "momvsdad",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          }
+        ],
+        "stats": {
+          "diggCount": 7800000,
+          "shareCount": 62900,
+          "commentCount": 30400,
+          "playCount": 39000000
+        },
+        "isActivityItem": false,
+        "duetInfo": {
+          "duetFromId": "0"
+        },
+        "originalItem": false,
+        "officalItem": false,
+        "textExtra": [
+          {
+            "awemeId": "",
+            "start": 36,
+            "end": 40,
+            "hashtagName": "fyp",
+            "hashtagId": "229207",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 41,
+            "end": 50,
+            "hashtagName": "momvsdad",
+            "hashtagId": "3272426",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          }
+        ],
+        "secret": false,
+        "forFriend": false,
+        "digged": false,
+        "itemCommentStatus": 0,
+        "showNotPass": false,
+        "vl1": false,
+        "itemMute": false,
+        "authorStats": {
+          "followingCount": 2,
+          "followerCount": 1000000,
+          "heartCount": 28700000,
+          "videoCount": 97,
+          "diggCount": 5681,
+          "heart": 28700000
+        },
+        "privateItem": false,
+        "duetEnabled": false,
+        "stitchEnabled": false,
+        "shareEnabled": true,
+        "stickersOnItem": [
+          {
+            "stickerType": 4,
+            "stickerText": [
+              "Seeing how my son will react if his dad picked him up from school instead of me",
+              "*scanning\u2026*",
+              "*doesn\u2019t even acknowledge his dad\u2019s existence* \ud83d\udc80",
+              "I want mama",
+              "I want mama",
+              "Hello papa, I want mommy",
+              "I want to go to the car",
+              "*still in disbelief*",
+              "I want to look for mommy",
+              "NOOOO",
+              "no you\u2019re lying ",
+              "Mommy\u2019s really not here? \ud83e\udd7a",
+              "*walks quickly to\ncheck out the car*",
+              "Moment of truth\u2026",
+              "NOOOOOO",
+              "*continues to search*",
+              "NoOoOo \ud83d\udc80",
+              "I want to go find mommy",
+              "\ud83d\udc94\ud83d\udc94\ud83d\udc94",
+              "*super guilty* \ud83d\ude2b"
+            ]
+          }
+        ],
+        "isAd": false,
+        "duetDisplay": 0,
+        "stitchDisplay": 0
+      }
+    },
+    "shareMeta": {
+      "title": "Naomi on TikTok",
+      "desc": "wasn\u2019t expecting this reaction \ud83d\ude2b\ud83d\udc94 #fyp #momvsdad"
+    }
+  },
+  {
+    "statusCode": 0,
+    "itemInfo": {
+      "itemStruct": {
+        "id": "7082315627595058434",
+        "desc": "The audacity to think my son will betray me over some chocolate \ud83d\udc81\ud83c\udffc\u200d\u2640\ufe0f #fyp #momvsdad",
+        "createTime": 1648980108,
+        "video": {
+          "id": "7082315627595058434",
+          "height": 1024,
+          "width": 576,
+          "duration": 26,
+          "ratio": "720p",
+          "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/09c1949aa7894187b7c3b269370ebe12_1648980113?x-expires=1650175200&x-signature=phzCnXB5SlATHvFj1CzRy2tSFHU%3D",
+          "originCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/32098e8ac9d24147a0e461268cd7d434_1648980109?x-expires=1650175200&x-signature=Qq3f9aCt5%2FnJc0d7lQrZzzhyWnE%3D",
+          "dynamicCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/8089cb2ce1f34d00bf6d4b5c3a037ac2_1648980110?x-expires=1650175200&x-signature=Xfsa0fikucozMtsh8Hyz2AdRquU%3D",
+          "playAddr": "https://v16-webapp.tiktok.com/6ef9214680c82cd54dc298f8fe070dd1/625bafd0/video/tos/alisg/tos-alisg-pve-0037/2095f31f84c84b1ea5d30f56115b89dc/?a=1988&br=3190&bt=1595&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=eXd.6Hy2Myq8Zt9-Lwe2NNJwyl7Gb&l=2022041700120601018907203413383E2A&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M29yajw6ZjRxPDMzODgzNEApNDs0ODU0Nzw1NzM8ZTw0Zmczcy5ucjRnLjFgLS1kLy1zczE0NC4tYTFjNjA1LzRiLjE6Yw%3D%3D&vl=&vr=",
+          "downloadAddr": "https://v16-webapp.tiktok.com/6ef9214680c82cd54dc298f8fe070dd1/625bafd0/video/tos/alisg/tos-alisg-pve-0037/2095f31f84c84b1ea5d30f56115b89dc/?a=1988&br=3190&bt=1595&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=eXd.6Hy2Myq8Zt9-Lwe2NNJwyl7Gb&l=2022041700120601018907203413383E2A&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M29yajw6ZjRxPDMzODgzNEApNDs0ODU0Nzw1NzM8ZTw0Zmczcy5ucjRnLjFgLS1kLy1zczE0NC4tYTFjNjA1LzRiLjE6Yw%3D%3D&vl=&vr=",
+          "shareCover": [
+            "",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/32098e8ac9d24147a0e461268cd7d434_1648980109~tplv-tiktok-play.jpeg?x-expires=1650758400&x-signature=IKAj7mGOhoQZpxQCUUwJBwZXIOA%3D",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/32098e8ac9d24147a0e461268cd7d434_1648980109~tplv-tiktokx-share-play.jpeg?x-expires=1650758400&x-signature=RKhaYSMUNiy0239F8gg9iEMtmGw%3D"
+          ],
+          "reflowCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/09c1949aa7894187b7c3b269370ebe12_1648980113?x-expires=1650175200&x-signature=phzCnXB5SlATHvFj1CzRy2tSFHU%3D",
+          "bitrate": 1634185,
+          "encodedType": "normal",
+          "format": "mp4",
+          "videoQuality": "normal",
+          "encodeUserTag": "",
+          "codecType": "h264",
+          "definition": "720p"
+        },
+        "author": {
+          "id": "268861292592181248",
+          "uniqueId": "naomineo",
+          "nickname": "Naomi",
+          "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/eeae1bee2adc528fc3afacb73b8fa8be.jpeg?x-expires=1650326400&x-signature=0k9u4yVqfZmN4bOpLe6reoK6icI%3D",
+          "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tiktok-obj/eeae1bee2adc528fc3afacb73b8fa8be.jpeg?x-expires=1650326400&x-signature=Yp3owNAN21Y%2BAIzP5o1LYuvxbXM%3D",
+          "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tiktok-obj/eeae1bee2adc528fc3afacb73b8fa8be.jpeg?x-expires=1650326400&x-signature=T57c6kNfG%2BYs8dXeF1fzCFupV%2B0%3D",
+          "signature": "Just human",
+          "verified": true,
+          "secUid": "MS4wLjABAAAA_gSazrJzfpR7AFZgEAfYoykOQrDFy_w8sarkKyMNsoouhTQD1WKa-jCSZbYgu1ca",
+          "secret": false,
+          "ftc": false,
+          "relation": 0,
+          "openFavorite": false,
+          "commentSetting": 0,
+          "duetSetting": 0,
+          "stitchSetting": 0,
+          "privateAccount": false,
+          "isADVirtual": false
+        },
+        "music": {
+          "id": "6732536571318257666",
+          "title": "Funny Song",
+          "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/da56f6ac11374919bbc0e80be23f547f",
+          "coverThumb": "https://p16-amd-va.tiktokcdn.com/img/tos-useast2a-v-2774/34e59ee6d05a42238d50ed37cbcc3d5c~c5_100x100.jpeg",
+          "coverMedium": "https://p16-amd-va.tiktokcdn.com/img/tos-useast2a-v-2774/34e59ee6d05a42238d50ed37cbcc3d5c~c5_200x200.jpeg",
+          "coverLarge": "https://p16-amd-va.tiktokcdn.com/img/tos-useast2a-v-2774/34e59ee6d05a42238d50ed37cbcc3d5c~c5_720x720.jpeg",
+          "authorName": "Cavendish Music",
+          "original": false,
+          "duration": 60,
+          "album": "Vintage Oddities 4"
+        },
+        "challenges": [
+          {
+            "id": "229207",
+            "title": "fyp",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "3272426",
+            "title": "momvsdad",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          }
+        ],
+        "stats": {
+          "diggCount": 633100,
+          "shareCount": 3502,
+          "commentCount": 1278,
+          "playCount": 4000000
+        },
+        "isActivityItem": false,
+        "duetInfo": {
+          "duetFromId": "0"
+        },
+        "originalItem": false,
+        "officalItem": false,
+        "textExtra": [
+          {
+            "awemeId": "",
+            "start": 72,
+            "end": 76,
+            "hashtagName": "fyp",
+            "hashtagId": "229207",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 77,
+            "end": 86,
+            "hashtagName": "momvsdad",
+            "hashtagId": "3272426",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          }
+        ],
+        "secret": false,
+        "forFriend": false,
+        "digged": false,
+        "itemCommentStatus": 0,
+        "showNotPass": false,
+        "vl1": false,
+        "itemMute": false,
+        "authorStats": {
+          "followingCount": 2,
+          "followerCount": 1000000,
+          "heartCount": 28700000,
+          "videoCount": 97,
+          "diggCount": 5681,
+          "heart": 28700000
+        },
+        "privateItem": false,
+        "duetEnabled": false,
+        "stitchEnabled": true,
+        "shareEnabled": true,
+        "stickersOnItem": [
+          {
+            "stickerType": 4,
+            "stickerText": [
+              "What do you want?",
+              "I wanna eat chocolate",
+              "My husband thinks our son would pick him over me by bribing him",
+              "I want chocolate",
+              "Kiss papa first",
+              "You love papa?",
+              "Yes",
+              "How much?",
+              "So much",
+              "Kyky, now that papa gave\nyou the yoghurt who do\nyou love more? ",
+              "Of course is mama",
+              "OF COURSE IS MAMA!",
+              "Mama 1  \nPapa 0"
+            ]
+          }
+        ],
+        "isAd": false,
+        "duetDisplay": 0,
+        "stitchDisplay": 0
+      }
+    },
+    "shareMeta": {
+      "title": "Naomi on TikTok",
+      "desc": "The audacity to think my son will betray me over some chocolate \ud83d\udc81\ud83c\udffc\u200d\u2640\ufe0f #fyp #momvsdad"
+    }
+  },
+  {
+    "statusCode": 0,
+    "itemInfo": {
+      "itemStruct": {
+        "id": "7084917526479539457",
+        "desc": "What an unexpected ending \ud83e\udd7a #fyp",
+        "createTime": 1649585909,
+        "video": {
+          "id": "7084917526479539457",
+          "height": 1024,
+          "width": 576,
+          "duration": 64,
+          "ratio": "720p",
+          "cover": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/ff536562fe5d4202b21084a6729aed5d_1649585926~tplv-dmt-logom:tos-alisg-pv-0037/3e083037c0f94012aa5bba0c82b706c9.image?x-expires=1650175200&x-signature=hGvvS3bRI3KTeeTFwwzRYZJVA7o%3D",
+          "originCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/c9747ce23a8547f5bb2ceb9601d66a92_1649585911?x-expires=1650175200&x-signature=P6nRMFQw0hwPB839eCxIxjdfvrs%3D",
+          "dynamicCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/4cefdf9edce3422abc11b628cf76afff_1649585911?x-expires=1650175200&x-signature=1ejFR03DlI8GkEh0UwE%2BgX0k62k%3D",
+          "playAddr": "https://v16-webapp.tiktok.com/06699fcfb9ebd7b4f5a81aadf6204c25/625baff7/video/tos/alisg/tos-alisg-pve-0037/f36e2d84fc114ce4920b36afbe9dde8f/?a=1988&br=1454&bt=727&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=eXd.6Hy2Myq8ZV9-Lwe2NigAol7Gb&l=202204170012070102230160201C36561A&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3VweTg6ZnNkPDMzODgzNEApaDk1ZDo3Ojw0NzYzMzozO2deLjYwcjRncTZgLS1kLy1zc2A2Y15eNWM0LmBfYWFiMTA6Yw%3D%3D&vl=&vr=",
+          "downloadAddr": "https://v16-webapp.tiktok.com/06699fcfb9ebd7b4f5a81aadf6204c25/625baff7/video/tos/alisg/tos-alisg-pve-0037/f36e2d84fc114ce4920b36afbe9dde8f/?a=1988&br=1454&bt=727&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=eXd.6Hy2Myq8ZV9-Lwe2NigAol7Gb&l=202204170012070102230160201C36561A&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3VweTg6ZnNkPDMzODgzNEApaDk1ZDo3Ojw0NzYzMzozO2deLjYwcjRncTZgLS1kLy1zc2A2Y15eNWM0LmBfYWFiMTA6Yw%3D%3D&vl=&vr=",
+          "shareCover": [
+            "",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/c9747ce23a8547f5bb2ceb9601d66a92_1649585911~tplv-tiktok-play.jpeg?x-expires=1650758400&x-signature=2ZNU%2FK1fG%2FFVlMUb5bA2iLGfKq4%3D",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/c9747ce23a8547f5bb2ceb9601d66a92_1649585911~tplv-tiktokx-share-play.jpeg?x-expires=1650758400&x-signature=1aEfimZJ9HYc4iK01vvNbaAOIDM%3D"
+          ],
+          "reflowCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/ff536562fe5d4202b21084a6729aed5d_1649585926?x-expires=1650175200&x-signature=PKdUhTHoNgsaeD3zr2jgLLlMC0Y%3D",
+          "bitrate": 745428,
+          "encodedType": "normal",
+          "format": "mp4",
+          "videoQuality": "normal",
+          "encodeUserTag": "",
+          "codecType": "h264",
+          "definition": "720p"
+        },
+        "author": {
+          "id": "268861292592181248",
+          "uniqueId": "naomineo",
+          "nickname": "Naomi",
+          "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/eeae1bee2adc528fc3afacb73b8fa8be.jpeg?x-expires=1650326400&x-signature=0k9u4yVqfZmN4bOpLe6reoK6icI%3D",
+          "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tiktok-obj/eeae1bee2adc528fc3afacb73b8fa8be.jpeg?x-expires=1650326400&x-signature=Yp3owNAN21Y%2BAIzP5o1LYuvxbXM%3D",
+          "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tiktok-obj/eeae1bee2adc528fc3afacb73b8fa8be.jpeg?x-expires=1650326400&x-signature=T57c6kNfG%2BYs8dXeF1fzCFupV%2B0%3D",
+          "signature": "Just human",
+          "verified": true,
+          "secUid": "MS4wLjABAAAA_gSazrJzfpR7AFZgEAfYoykOQrDFy_w8sarkKyMNsoouhTQD1WKa-jCSZbYgu1ca",
+          "secret": false,
+          "ftc": false,
+          "relation": 0,
+          "openFavorite": false,
+          "commentSetting": 0,
+          "duetSetting": 0,
+          "stitchSetting": 0,
+          "privateAccount": false,
+          "isADVirtual": false
+        },
+        "music": {
+          "id": "6746993352891189249",
+          "title": "Monkeys Spinning Monkeys",
+          "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/ea8ca7768b2142be9cafe3284d9b97fa",
+          "coverThumb": "https://p16-amd-va.tiktokcdn.com/img/tos-useast2a-v-2774/baccdb3bc024418b9276ed236c584908~c5_100x100.jpeg",
+          "coverMedium": "https://p16-amd-va.tiktokcdn.com/img/tos-useast2a-v-2774/baccdb3bc024418b9276ed236c584908~c5_200x200.jpeg",
+          "coverLarge": "https://p16-amd-va.tiktokcdn.com/img/tos-useast2a-v-2774/baccdb3bc024418b9276ed236c584908~c5_720x720.jpeg",
+          "authorName": "Kevin MacLeod & Kevin The Monkey",
+          "original": false,
+          "duration": 60,
+          "album": "Monkeys Spinning Monkeys"
+        },
+        "challenges": [
+          {
+            "id": "229207",
+            "title": "fyp",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          }
+        ],
+        "stats": {
+          "diggCount": 267200,
+          "shareCount": 2675,
+          "commentCount": 1451,
+          "playCount": 1600000
+        },
+        "isActivityItem": false,
+        "duetInfo": {
+          "duetFromId": "0"
+        },
+        "originalItem": false,
+        "officalItem": false,
+        "textExtra": [
+          {
+            "awemeId": "",
+            "start": 29,
+            "end": 33,
+            "hashtagName": "fyp",
+            "hashtagId": "229207",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          }
+        ],
+        "secret": false,
+        "forFriend": false,
+        "digged": false,
+        "itemCommentStatus": 0,
+        "showNotPass": false,
+        "vl1": false,
+        "itemMute": false,
+        "authorStats": {
+          "followingCount": 2,
+          "followerCount": 1000000,
+          "heartCount": 28700000,
+          "videoCount": 97,
+          "diggCount": 5681,
+          "heart": 28700000
+        },
+        "privateItem": false,
+        "duetEnabled": false,
+        "stitchEnabled": false,
+        "shareEnabled": true,
+        "stickersOnItem": [
+          {
+            "stickerType": 4,
+            "stickerText": [
+              "Hugging each other in front of our son to see his reaction",
+              "*spots it immediately*",
+              "*runs faster than anything*",
+              "*panics*",
+              "*Attempts to \u201ccast a separation spell\u201d with his HP wand??????? \ud83d\ude02*",
+              "\u201cHug me\u201d",
+              "\u201cHug me\u201d",
+              "\u201cHUG MEEE\u201d",
+              "\u201cYou sit on my lap\u201d \ud83e\udd23",
+              "(Let\u2019s try this again)",
+              "*fighting for his life*",
+              "\u201cI\u2019m separating you two up\u201d",
+              "\u201cI want apart\u201d",
+              "turns out he just wanted to be hugged by the both of us \ud83e\udd79"
+            ]
+          },
+          {
+            "stickerType": 9,
+            "stickerText": [
+              "HUGGING EACH OTHER IN FRONT OUR SON"
+            ]
+          }
+        ],
+        "isAd": false,
+        "duetDisplay": 0,
+        "stitchDisplay": 0
+      }
+    },
+    "shareMeta": {
+      "title": "Naomi on TikTok",
+      "desc": "What an unexpected ending \ud83e\udd7a #fyp"
+    }
+  },
+  {
+    "statusCode": 0,
+    "itemInfo": {
+      "itemStruct": {
+        "id": "7039987784689470721",
+        "desc": "Did @naomineo really purchased her own Lamborghini? \ud83c\udfce #HearUOut #meWATCH #mediacorp",
+        "createTime": 1639124888,
+        "video": {
+          "id": "7039987784689470721",
+          "height": 1024,
+          "width": 576,
+          "duration": 57,
+          "ratio": "720p",
+          "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/8fed95b90a20437cb0b3a354f706c272_1639124903?x-expires=1650175200&x-signature=0Q5Sx%2BpbbCnocswPY4Az6QzllG8%3D",
+          "originCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/25014cbd5ef941d78c4b467b7cecda21_1639124889?x-expires=1650175200&x-signature=9BOsUie8qJJ7owtGqLgs84hXGos%3D",
+          "dynamicCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/c328055eb2c24d60afcd5c322f5630b4_1639124892?x-expires=1650175200&x-signature=NMNaJ6FqQTRksscMFfVYGlZMqds%3D",
+          "playAddr": "https://v16-webapp.tiktok.com/3c827ed27157743088211268930c072f/625baff2/video/tos/alisg/tos-alisg-pve-0037/26fc2133afbf4f9aa291c24e53a6d098/?a=1988&br=2068&bt=1034&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=eXd.6Hy2Myq8Ze9-Lwe2Negwyl7Gb&l=202204170012090101921650792537245E&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anJnN2k6ZjVqOTMzODgzNEApZ2Y0ZGU7OztnNzM7NjloNmcucTZqcjRfc21gLS1kLy1zczYzYzZjNTQtNjIxYzYtYWI6Yw%3D%3D&vl=&vr=",
+          "downloadAddr": "https://v16-webapp.tiktok.com/3c827ed27157743088211268930c072f/625baff2/video/tos/alisg/tos-alisg-pve-0037/26fc2133afbf4f9aa291c24e53a6d098/?a=1988&br=2068&bt=1034&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=eXd.6Hy2Myq8Ze9-Lwe2Negwyl7Gb&l=202204170012090101921650792537245E&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anJnN2k6ZjVqOTMzODgzNEApZ2Y0ZGU7OztnNzM7NjloNmcucTZqcjRfc21gLS1kLy1zczYzYzZjNTQtNjIxYzYtYWI6Yw%3D%3D&vl=&vr=",
+          "shareCover": [
+            "",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/25014cbd5ef941d78c4b467b7cecda21_1639124889~tplv-tiktok-play.jpeg?x-expires=1650758400&x-signature=JUv9b6Sg6abDEUiloC3F8sL9DTU%3D",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/25014cbd5ef941d78c4b467b7cecda21_1639124889~tplv-tiktokx-share-play.jpeg?x-expires=1650758400&x-signature=VPHbrcuoAqElGkmIoup3QdWK0MA%3D"
+          ],
+          "reflowCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/8fed95b90a20437cb0b3a354f706c272_1639124903?x-expires=1650175200&x-signature=0Q5Sx%2BpbbCnocswPY4Az6QzllG8%3D",
+          "bitrate": 1058832,
+          "encodedType": "normal",
+          "format": "mp4",
+          "videoQuality": "normal",
+          "encodeUserTag": "",
+          "codecType": "h264",
+          "definition": "720p"
+        },
+        "author": {
+          "id": "6906753129867035650",
+          "uniqueId": "mediacorp",
+          "nickname": "Mediacorp",
+          "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/68712f52247a87bb3e53a6622aa96d12.jpeg?x-expires=1650326400&x-signature=GUP%2BAlvboVK5pZ%2BlRKBzDnqsrmo%3D",
+          "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/68712f52247a87bb3e53a6622aa96d12.jpeg?x-expires=1650326400&x-signature=%2FiR9CsY%2FcvRGzT%2B20FCmzLSa8fs%3D",
+          "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/68712f52247a87bb3e53a6622aa96d12.jpeg?x-expires=1650326400&x-signature=0W5T%2F3VEASTSaVB1jKHPJ%2FueHA0%3D",
+          "signature": "The woman was too stunned to speak \ud83e\udd10\nCheck out our other content:",
+          "verified": true,
+          "secUid": "MS4wLjABAAAAJyPopDbKh8GZ4ucHiz7qe0D6hIqijQiyepyCRkTeaesqrICxqTzYmQ0Rzplu4Tc6",
+          "secret": false,
+          "ftc": false,
+          "relation": 0,
+          "openFavorite": false,
+          "commentSetting": 0,
+          "duetSetting": 0,
+          "stitchSetting": 0,
+          "privateAccount": false,
+          "isADVirtual": false
+        },
+        "music": {
+          "id": "7039987800946789122",
+          "title": "original sound - Mediacorp",
+          "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7039987795813157634.mp3",
+          "coverThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/68712f52247a87bb3e53a6622aa96d12.jpeg?x-expires=1650326400&x-signature=GUP%2BAlvboVK5pZ%2BlRKBzDnqsrmo%3D",
+          "coverMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/68712f52247a87bb3e53a6622aa96d12.jpeg?x-expires=1650326400&x-signature=%2FiR9CsY%2FcvRGzT%2B20FCmzLSa8fs%3D",
+          "coverLarge": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/68712f52247a87bb3e53a6622aa96d12.jpeg?x-expires=1650326400&x-signature=0W5T%2F3VEASTSaVB1jKHPJ%2FueHA0%3D",
+          "authorName": "Mediacorp",
+          "original": true,
+          "duration": 57,
+          "album": ""
+        },
+        "challenges": [
+          {
+            "id": "29129256",
+            "title": "hearuout",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "8561094",
+            "title": "mewatch",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "19390724",
+            "title": "mediacorp",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          }
+        ],
+        "stats": {
+          "diggCount": 6392,
+          "shareCount": 138,
+          "commentCount": 30,
+          "playCount": 146300
+        },
+        "isActivityItem": false,
+        "duetInfo": {
+          "duetFromId": "0"
+        },
+        "originalItem": false,
+        "officalItem": false,
+        "textExtra": [
+          {
+            "awemeId": "",
+            "start": 4,
+            "end": 13,
+            "hashtagName": "",
+            "hashtagId": "",
+            "type": 0,
+            "userId": "268861292592181248",
+            "isCommerce": false,
+            "userUniqueId": "naomineo",
+            "secUid": "MS4wLjABAAAA_gSazrJzfpR7AFZgEAfYoykOQrDFy_w8sarkKyMNsoouhTQD1WKa-jCSZbYgu1ca",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 55,
+            "end": 64,
+            "hashtagName": "hearuout",
+            "hashtagId": "29129256",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 65,
+            "end": 73,
+            "hashtagName": "mewatch",
+            "hashtagId": "8561094",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 74,
+            "end": 84,
+            "hashtagName": "mediacorp",
+            "hashtagId": "19390724",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          }
+        ],
+        "secret": false,
+        "forFriend": false,
+        "digged": false,
+        "itemCommentStatus": 0,
+        "showNotPass": false,
+        "vl1": false,
+        "itemMute": false,
+        "authorStats": {
+          "followingCount": 8,
+          "followerCount": 54800,
+          "heartCount": 1100000,
+          "videoCount": 479,
+          "diggCount": 305,
+          "heart": 1100000
+        },
+        "privateItem": false,
+        "duetEnabled": true,
+        "stitchEnabled": true,
+        "shareEnabled": true,
+        "isAd": false,
+        "duetDisplay": 0,
+        "stitchDisplay": 0
+      }
+    },
+    "shareMeta": {
+      "title": "Mediacorp on TikTok",
+      "desc": "Did @naomineo really purchased her own Lamborghini? \ud83c\udfce #HearUOut #meWATCH #mediacorp"
+    }
+  },
+  {
+    "statusCode": 0,
+    "itemInfo": {
+      "itemStruct": {
+        "id": "7082686652992294146",
+        "desc": "Yes\u2026 this is my daughter. #sassqueen #fyp",
+        "createTime": 1649066494,
+        "video": {
+          "id": "7082686652992294146",
+          "height": 1024,
+          "width": 576,
+          "duration": 14,
+          "ratio": "720p",
+          "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/948018c45b3b441b99ae331567b317cb_1649066497?x-expires=1650175200&x-signature=SqMnG0YsEOtZPHLY5XQ%2BePSwcCE%3D",
+          "originCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/41e9299e29d14cf485274b13cb01182e_1649066497?x-expires=1650175200&x-signature=vVH1ah60jxA2qmdmjHhQLgt7Vms%3D",
+          "dynamicCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/6b3be461c9ea4aa3919dbc2d66e919a6_1649066495?x-expires=1650175200&x-signature=oQFLJjECNKyk1uT65kaxtv8I7Ug%3D",
+          "playAddr": "https://v16-webapp.tiktok.com/8ff3436c3c2333f79b0fcb29b1d726ae/625bafc9/video/tos/alisg/tos-alisg-pve-0037/87ab4398ddbe4dc09463c320951993f2/?a=1988&br=2098&bt=1049&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=eXd.6Hy2Myq8Zw9-Lwe2NBqSol7Gb&l=2022041700121101022307915707394BCD&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2VoOzc6ZnhmPDMzODgzNEApOzNmOTgzNWQ4NzU1NjY3ZWdicDRncjRvMDJgLS1kLy1zc15eMWIxL2NjX14uYzYuMzQ6Yw%3D%3D&vl=&vr=",
+          "downloadAddr": "https://v16-webapp.tiktok.com/8ff3436c3c2333f79b0fcb29b1d726ae/625bafc9/video/tos/alisg/tos-alisg-pve-0037/87ab4398ddbe4dc09463c320951993f2/?a=1988&br=2098&bt=1049&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=eXd.6Hy2Myq8Zw9-Lwe2NBqSol7Gb&l=2022041700121101022307915707394BCD&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2VoOzc6ZnhmPDMzODgzNEApOzNmOTgzNWQ4NzU1NjY3ZWdicDRncjRvMDJgLS1kLy1zc15eMWIxL2NjX14uYzYuMzQ6Yw%3D%3D&vl=&vr=",
+          "shareCover": [
+            "",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/41e9299e29d14cf485274b13cb01182e_1649066497~tplv-tiktok-play.jpeg?x-expires=1650758400&x-signature=U5uY8dmzDh%2Fi4dxBdIEusa23aaM%3D",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/41e9299e29d14cf485274b13cb01182e_1649066497~tplv-tiktokx-share-play.jpeg?x-expires=1650758400&x-signature=OHnBOvp%2FWN4fYo6DZPD0qT0GY0Q%3D"
+          ],
+          "reflowCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/948018c45b3b441b99ae331567b317cb_1649066497?x-expires=1650175200&x-signature=SqMnG0YsEOtZPHLY5XQ%2BePSwcCE%3D",
+          "bitrate": 1074657,
+          "encodedType": "normal",
+          "format": "mp4",
+          "videoQuality": "normal",
+          "encodeUserTag": "",
+          "codecType": "h264",
+          "definition": "720p"
+        },
+        "author": {
+          "id": "268861292592181248",
+          "uniqueId": "naomineo",
+          "nickname": "Naomi",
+          "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/eeae1bee2adc528fc3afacb73b8fa8be.jpeg?x-expires=1650326400&x-signature=0k9u4yVqfZmN4bOpLe6reoK6icI%3D",
+          "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tiktok-obj/eeae1bee2adc528fc3afacb73b8fa8be.jpeg?x-expires=1650326400&x-signature=Yp3owNAN21Y%2BAIzP5o1LYuvxbXM%3D",
+          "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tiktok-obj/eeae1bee2adc528fc3afacb73b8fa8be.jpeg?x-expires=1650326400&x-signature=T57c6kNfG%2BYs8dXeF1fzCFupV%2B0%3D",
+          "signature": "Just human",
+          "verified": true,
+          "secUid": "MS4wLjABAAAA_gSazrJzfpR7AFZgEAfYoykOQrDFy_w8sarkKyMNsoouhTQD1WKa-jCSZbYgu1ca",
+          "secret": false,
+          "ftc": false,
+          "relation": 0,
+          "openFavorite": false,
+          "commentSetting": 0,
+          "duetSetting": 0,
+          "stitchSetting": 0,
+          "privateAccount": false,
+          "isADVirtual": false
+        },
+        "music": {
+          "id": "7082686640560294658",
+          "title": "original sound - Naomi",
+          "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7082686639759280898.mp3",
+          "coverThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/eeae1bee2adc528fc3afacb73b8fa8be.jpeg?x-expires=1650326400&x-signature=0k9u4yVqfZmN4bOpLe6reoK6icI%3D",
+          "coverMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tiktok-obj/eeae1bee2adc528fc3afacb73b8fa8be.jpeg?x-expires=1650326400&x-signature=Yp3owNAN21Y%2BAIzP5o1LYuvxbXM%3D",
+          "coverLarge": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tiktok-obj/eeae1bee2adc528fc3afacb73b8fa8be.jpeg?x-expires=1650326400&x-signature=T57c6kNfG%2BYs8dXeF1fzCFupV%2B0%3D",
+          "authorName": "Naomi",
+          "original": true,
+          "duration": 14,
+          "album": ""
+        },
+        "challenges": [
+          {
+            "id": "71888",
+            "title": "sassqueen",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "229207",
+            "title": "fyp",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          }
+        ],
+        "stats": {
+          "diggCount": 207400,
+          "shareCount": 1061,
+          "commentCount": 1484,
+          "playCount": 1900000
+        },
+        "isActivityItem": false,
+        "duetInfo": {
+          "duetFromId": "0"
+        },
+        "originalItem": false,
+        "officalItem": false,
+        "textExtra": [
+          {
+            "awemeId": "",
+            "start": 26,
+            "end": 36,
+            "hashtagName": "sassqueen",
+            "hashtagId": "71888",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 37,
+            "end": 41,
+            "hashtagName": "fyp",
+            "hashtagId": "229207",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          }
+        ],
+        "secret": false,
+        "forFriend": false,
+        "digged": false,
+        "itemCommentStatus": 0,
+        "showNotPass": false,
+        "vl1": false,
+        "itemMute": false,
+        "authorStats": {
+          "followingCount": 2,
+          "followerCount": 1000000,
+          "heartCount": 28700000,
+          "videoCount": 97,
+          "diggCount": 5681,
+          "heart": 28700000
+        },
+        "privateItem": false,
+        "duetEnabled": false,
+        "stitchEnabled": true,
+        "shareEnabled": true,
+        "stickersOnItem": [
+          {
+            "stickerType": 4,
+            "stickerText": [
+              "So they say if you give a baby an egg, they are gentle with it\u2026\u2026\u2026\u2026.",
+              "*Instantly throws it*",
+              "\u2026\u2026"
+            ]
+          }
+        ],
+        "isAd": false,
+        "duetDisplay": 0,
+        "stitchDisplay": 0
+      }
+    },
+    "shareMeta": {
+      "title": "Naomi on TikTok",
+      "desc": "Yes\u2026 this is my daughter. #sassqueen #fyp"
+    }
+  },
+  {
+    "statusCode": 0,
+    "itemInfo": {
+      "itemStruct": {
+        "id": "6985102353301064961",
+        "desc": "Was this prank a fail or success? \ud83d\ude02 #poopprank #fyp #foryoupage",
+        "createTime": 1626345881,
+        "video": {
+          "id": "6985102353301064961",
+          "height": 1024,
+          "width": 576,
+          "duration": 74,
+          "ratio": "720p",
+          "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/20807904017742adbdeb360c47cbf73e?x-expires=1650175200&x-signature=lCAJXSMTwkZu%2FfGd6beLK6iDdYM%3D",
+          "originCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/9900b79ad03b4978806a4e2c8875beae_1626345882?x-expires=1650175200&x-signature=4pNkgXk5ZWAdj1AdwLsmiJPzijs%3D",
+          "dynamicCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/7fc41353ae9d405990000d96260af354_1626345895?x-expires=1650175200&x-signature=oI%2B90dMb8W1yUwEX0Jf6jGLr2YI%3D",
+          "playAddr": "https://v16-webapp.tiktok.com/cb9291b5f9475f1f58fbcd9c84affb6b/625bb006/video/tos/alisg/tos-alisg-pve-0037/d78d87c686974e07bec4509d3caf085f/?a=1988&br=2370&bt=1185&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=eXd.6Hy2Myq8Z29-Lwe2NdOPyl7Gb&l=202204170012120102230830261037C1C6&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2lpeWY6ZjU0NjMzODgzNEApNGczPGk4M2RkN2czNmk1aWdwbGwwcjQwL2xgLS1kLy1zczEwLzExNV40YjY1LzQtMDI6Yw%3D%3D&vl=&vr=",
+          "downloadAddr": "https://v16-webapp.tiktok.com/cb9291b5f9475f1f58fbcd9c84affb6b/625bb006/video/tos/alisg/tos-alisg-pve-0037/d78d87c686974e07bec4509d3caf085f/?a=1988&br=2370&bt=1185&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=eXd.6Hy2Myq8Z29-Lwe2NdOPyl7Gb&l=202204170012120102230830261037C1C6&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2lpeWY6ZjU0NjMzODgzNEApNGczPGk4M2RkN2czNmk1aWdwbGwwcjQwL2xgLS1kLy1zczEwLzExNV40YjY1LzQtMDI6Yw%3D%3D&vl=&vr=",
+          "shareCover": [
+            "",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/9900b79ad03b4978806a4e2c8875beae_1626345882~tplv-tiktok-play.jpeg?x-expires=1650758400&x-signature=MBjkagzhObJ3MFe2HUjI9Re%2BbTM%3D",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/9900b79ad03b4978806a4e2c8875beae_1626345882~tplv-tiktokx-share-play.jpeg?x-expires=1650758400&x-signature=hh9R851sQ7xktgLgBazWLlEYpFA%3D"
+          ],
+          "reflowCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/20807904017742adbdeb360c47cbf73e?x-expires=1650175200&x-signature=lCAJXSMTwkZu%2FfGd6beLK6iDdYM%3D",
+          "bitrate": 1214031,
+          "encodedType": "normal",
+          "format": "mp4",
+          "videoQuality": "normal",
+          "encodeUserTag": "",
+          "codecType": "h264",
+          "definition": "720p"
+        },
+        "author": {
+          "id": "268861292592181248",
+          "uniqueId": "naomineo",
+          "nickname": "Naomi",
+          "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/eeae1bee2adc528fc3afacb73b8fa8be.jpeg?x-expires=1650326400&x-signature=0k9u4yVqfZmN4bOpLe6reoK6icI%3D",
+          "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tiktok-obj/eeae1bee2adc528fc3afacb73b8fa8be.jpeg?x-expires=1650326400&x-signature=Yp3owNAN21Y%2BAIzP5o1LYuvxbXM%3D",
+          "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tiktok-obj/eeae1bee2adc528fc3afacb73b8fa8be.jpeg?x-expires=1650326400&x-signature=T57c6kNfG%2BYs8dXeF1fzCFupV%2B0%3D",
+          "signature": "Just human",
+          "verified": true,
+          "secUid": "MS4wLjABAAAA_gSazrJzfpR7AFZgEAfYoykOQrDFy_w8sarkKyMNsoouhTQD1WKa-jCSZbYgu1ca",
+          "secret": false,
+          "ftc": false,
+          "relation": 0,
+          "openFavorite": false,
+          "commentSetting": 0,
+          "duetSetting": 0,
+          "stitchSetting": 0,
+          "privateAccount": false,
+          "isADVirtual": false
+        },
+        "music": {
+          "id": "6985102342530091777",
+          "title": "original sound - Naomi",
+          "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/6985102310384913153.mp3",
+          "coverThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/eeae1bee2adc528fc3afacb73b8fa8be.jpeg?x-expires=1650326400&x-signature=0k9u4yVqfZmN4bOpLe6reoK6icI%3D",
+          "coverMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tiktok-obj/eeae1bee2adc528fc3afacb73b8fa8be.jpeg?x-expires=1650326400&x-signature=Yp3owNAN21Y%2BAIzP5o1LYuvxbXM%3D",
+          "coverLarge": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tiktok-obj/eeae1bee2adc528fc3afacb73b8fa8be.jpeg?x-expires=1650326400&x-signature=T57c6kNfG%2BYs8dXeF1fzCFupV%2B0%3D",
+          "authorName": "Naomi",
+          "original": true,
+          "duration": 74,
+          "album": ""
+        },
+        "challenges": [
+          {
+            "id": "9986931",
+            "title": "poopprank",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "229207",
+            "title": "fyp",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "88764338",
+            "title": "foryoupage",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          }
+        ],
+        "stats": {
+          "diggCount": 180100,
+          "shareCount": 6587,
+          "commentCount": 1282,
+          "playCount": 2200000
+        },
+        "isActivityItem": false,
+        "duetInfo": {
+          "duetFromId": "0"
+        },
+        "originalItem": false,
+        "officalItem": false,
+        "textExtra": [
+          {
+            "awemeId": "",
+            "start": 37,
+            "end": 47,
+            "hashtagName": "poopprank",
+            "hashtagId": "9986931",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 48,
+            "end": 52,
+            "hashtagName": "fyp",
+            "hashtagId": "229207",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 53,
+            "end": 64,
+            "hashtagName": "foryoupage",
+            "hashtagId": "88764338",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          }
+        ],
+        "secret": false,
+        "forFriend": false,
+        "digged": false,
+        "itemCommentStatus": 0,
+        "showNotPass": false,
+        "vl1": false,
+        "itemMute": false,
+        "authorStats": {
+          "followingCount": 2,
+          "followerCount": 1000000,
+          "heartCount": 28700000,
+          "videoCount": 97,
+          "diggCount": 5681,
+          "heart": 28700000
+        },
+        "privateItem": false,
+        "duetEnabled": false,
+        "stitchEnabled": false,
+        "shareEnabled": true,
+        "stickersOnItem": [
+          {
+            "stickerType": 4,
+            "stickerText": [
+              "Trying the peanut butter poop prank on my son \ud83d\udca9",
+              "\u201cYes mommy\u201d",
+              "\u201cOk, I go down\u201d",
+              "*tears off some\nfor me* \ud83e\udd7a",
+              "*uses it to wipe off the \u201cpoop\u201d instantly* ",
+              "\u201cWhat this?\u201d",
+              "\u201cWhat this?\u201d",
+              "\u201cPEANUT???\u201d",
+              "(I\u2019m literally dying\nfrom laughter)",
+              "Daddy: \u201cmommy\u2019s\npoopoo\u201d",
+              "Daddy: \u201cmommy pooped\non your hand\u201d",
+              "*trying to process\nthe whole situation*",
+              "*reaches for the sink*",
+              "*can\u2019t reach it*",
+              "*turns to papa for help*",
+              "\u201cCarry me\u2026\u201d",
+              "\u201cCarry me\u2026\u201d",
+              "\u201cCarry me\u201d",
+              "\u201cCarry me\u201d",
+              "\u201cCarry me\u201d x10",
+              "\u201cCARRY ME!!!\u201d",
+              "\u201cForget it, I can do\nit myself\u201d \ud83d\ude24\ud83d\ude24\ud83d\ude24"
+            ]
+          }
+        ],
+        "isAd": false,
+        "duetDisplay": 0,
+        "stitchDisplay": 0
+      }
+    },
+    "shareMeta": {
+      "title": "Naomi on TikTok",
+      "desc": "Was this prank a fail or success? \ud83d\ude02 #poopprank #fyp #foryoupage"
+    }
+  },
+  {
+    "statusCode": 0,
+    "itemInfo": {
+      "itemStruct": {
+        "id": "7011676604900429057",
+        "desc": "naomi -> debbie -> liz -> naomi ( 2 ) -> burqq \ud83e\udd70 who's next \u2618 { @naomineo @debbwie @kylolizy @burqq.official } tags \ud83c\udff7 : #fyp #viral #titan #gender",
+        "createTime": 1632533180,
+        "video": {
+          "id": "7011676604900429057",
+          "height": 576,
+          "width": 1024,
+          "duration": 26,
+          "ratio": "720p",
+          "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/1bef32d84c5e4c51a231efabbbd81c21?x-expires=1650175200&x-signature=8R0J8MKZOliCa99d%2BVVAqBt%2FksY%3D",
+          "originCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/967070b3f1c64ed0ac7091787c9f4d2c_1632533181?x-expires=1650175200&x-signature=q7gCkQDgzt2IFUhk49Cog05ZsHU%3D",
+          "dynamicCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/7cafd399c64341ff8a8cc1b9b128d99c_1632533182?x-expires=1650175200&x-signature=9craIXv2GyNKyl25MIcbMAhSJvk%3D",
+          "playAddr": "https://v16-webapp.tiktok.com/ee07c0e08e6677abdb4b65de4723aa86/625bafd8/video/tos/alisg/tos-alisg-pve-0037/01f6b159d2b24a548e4c75eb060b2cf2/?a=1988&br=2454&bt=1227&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=eXd.6Hy2Myq8Zs9-Lwe2Nfleyl7Gb&l=202204170012140101921592382635BC09&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajt1eGU6Zmc6ODMzODgzNEApZjQ4OzNnOmUzNzM2NmVkaGdfNWdlcjRvaTRgLS1kLy1zczMzNjViLi4wMDFgY2JeNDE6Yw%3D%3D&vl=&vr=",
+          "downloadAddr": "https://v16-webapp.tiktok.com/ee07c0e08e6677abdb4b65de4723aa86/625bafd8/video/tos/alisg/tos-alisg-pve-0037/01f6b159d2b24a548e4c75eb060b2cf2/?a=1988&br=2454&bt=1227&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=eXd.6Hy2Myq8Zs9-Lwe2Nfleyl7Gb&l=202204170012140101921592382635BC09&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajt1eGU6Zmc6ODMzODgzNEApZjQ4OzNnOmUzNzM2NmVkaGdfNWdlcjRvaTRgLS1kLy1zczMzNjViLi4wMDFgY2JeNDE6Yw%3D%3D&vl=&vr=",
+          "shareCover": [
+            "",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/967070b3f1c64ed0ac7091787c9f4d2c_1632533181~tplv-tiktok-play.jpeg?x-expires=1650758400&x-signature=EYoYCc%2BDKaZgBzuay0fwuxgoJYA%3D",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/967070b3f1c64ed0ac7091787c9f4d2c_1632533181~tplv-tiktokx-share-play.jpeg?x-expires=1650758400&x-signature=4%2BiHkj5od%2FPOTsNgQe%2FYqZt3jRo%3D"
+          ],
+          "reflowCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/1bef32d84c5e4c51a231efabbbd81c21?x-expires=1650175200&x-signature=8R0J8MKZOliCa99d%2BVVAqBt%2FksY%3D",
+          "bitrate": 1256565,
+          "encodedType": "normal",
+          "format": "mp4",
+          "videoQuality": "normal",
+          "encodeUserTag": "",
+          "codecType": "h264",
+          "definition": "720p"
+        },
+        "author": {
+          "id": "6973921480262484994",
+          "uniqueId": "luvxtitan._",
+          "nickname": "\ud835\ude01\ud835\uddf6\ud835\ude01\ud835\uddee\ud835\uddfb <3 || 5.5\ud835\uddf8",
+          "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/0d9853a1d37039d3aa9431c5e9fd11b2.jpeg?x-expires=1650326400&x-signature=IRi1N%2Bf%2FRy%2BHoUoXw%2B1Ks3iEQdo%3D",
+          "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/0d9853a1d37039d3aa9431c5e9fd11b2.jpeg?x-expires=1650326400&x-signature=NVw4xs2mw%2BdKxOSz8uSjNBV%2BV7o%3D",
+          "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/0d9853a1d37039d3aa9431c5e9fd11b2.jpeg?x-expires=1650326400&x-signature=mGRvITZC184%2FFGTcWODnfANN170%3D",
+          "signature": "\ua4b0\ud83e\udd42\ua4b1 acc ib : titan.luvz \u2764\ufe0f\n\ua4b0\u2601\ufe0f\ua4b1 noticed : 19 \u2728\n\ua4b0\u2618\ua4b1 started : 13/8/2021 \ud83e\udd7a",
+          "verified": false,
+          "secUid": "MS4wLjABAAAA8AI4QdPdI2IIQSsu2iSWq9xUwpZhqHJlY8Rv5ykdgiVVklyvIADzTt2fkBI_4I2R",
+          "secret": false,
+          "ftc": false,
+          "relation": 0,
+          "openFavorite": false,
+          "commentSetting": 0,
+          "duetSetting": 0,
+          "stitchSetting": 0,
+          "privateAccount": false,
+          "isADVirtual": false
+        },
+        "music": {
+          "id": "7011676390240307970",
+          "title": "original sound - \ud835\ude01\ud835\uddf6\ud835\ude01\ud835\uddee\ud835\uddfb \ud835\uddf3\ud835\uddfc\ud835\uddff \ud835\uddf9\ud835\uddf6\ud835\uddf3\ud835\uddf2 <3",
+          "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7011676242617436930.mp3",
+          "coverThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/0d9853a1d37039d3aa9431c5e9fd11b2.jpeg?x-expires=1650326400&x-signature=IRi1N%2Bf%2FRy%2BHoUoXw%2B1Ks3iEQdo%3D",
+          "coverMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/0d9853a1d37039d3aa9431c5e9fd11b2.jpeg?x-expires=1650326400&x-signature=NVw4xs2mw%2BdKxOSz8uSjNBV%2BV7o%3D",
+          "coverLarge": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/0d9853a1d37039d3aa9431c5e9fd11b2.jpeg?x-expires=1650326400&x-signature=mGRvITZC184%2FFGTcWODnfANN170%3D",
+          "authorName": "\ud835\ude01\ud835\uddf6\ud835\ude01\ud835\uddee\ud835\uddfb <3 || 5.5\ud835\uddf8",
+          "original": true,
+          "duration": 26,
+          "album": ""
+        },
+        "challenges": [
+          {
+            "id": "229207",
+            "title": "fyp",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "20884",
+            "title": "viral",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "195026",
+            "title": "titan",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          },
+          {
+            "id": "135536",
+            "title": "gender",
+            "desc": "",
+            "profileThumb": "",
+            "profileMedium": "",
+            "profileLarger": "",
+            "coverThumb": "",
+            "coverMedium": "",
+            "coverLarger": "",
+            "isCommerce": false
+          }
+        ],
+        "stats": {
+          "diggCount": 8057,
+          "shareCount": 53,
+          "commentCount": 38,
+          "playCount": 122300
+        },
+        "isActivityItem": false,
+        "duetInfo": {
+          "duetFromId": "0"
+        },
+        "originalItem": false,
+        "officalItem": false,
+        "textExtra": [
+          {
+            "awemeId": "",
+            "start": 65,
+            "end": 74,
+            "hashtagName": "",
+            "hashtagId": "",
+            "type": 0,
+            "userId": "268861292592181248",
+            "isCommerce": false,
+            "userUniqueId": "naomineo",
+            "secUid": "MS4wLjABAAAA_gSazrJzfpR7AFZgEAfYoykOQrDFy_w8sarkKyMNsoouhTQD1WKa-jCSZbYgu1ca",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 75,
+            "end": 83,
+            "hashtagName": "",
+            "hashtagId": "",
+            "type": 0,
+            "userId": "6539376946249465857",
+            "isCommerce": false,
+            "userUniqueId": "realdebbwie",
+            "secUid": "MS4wLjABAAAAU20fpNP8YKwkrtGbEQAMbu_bNoxMVDRtllZXfKtKQoCv7pMCZsEJ2KRkIa3kUSZv",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 84,
+            "end": 93,
+            "hashtagName": "",
+            "hashtagId": "",
+            "type": 0,
+            "userId": "6564941823532744706",
+            "isCommerce": false,
+            "userUniqueId": "kylolizy",
+            "secUid": "MS4wLjABAAAAHdvtFpeGlO3KQKbyKJzjfhaSCEB71VCgOiuoG1Beszv49IJJ56OmV-phGAwcLKgn",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 94,
+            "end": 109,
+            "hashtagName": "",
+            "hashtagId": "",
+            "type": 0,
+            "userId": "6918754228535542789",
+            "isCommerce": false,
+            "userUniqueId": "burqq.official",
+            "secUid": "MS4wLjABAAAAcV20vnapKUuDE_hdTYlVg4Rh4CuIduIm0b_VztbEGM_nu_bu9tWn3aKb5ompYVki",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 122,
+            "end": 126,
+            "hashtagName": "fyp",
+            "hashtagId": "229207",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 127,
+            "end": 133,
+            "hashtagName": "viral",
+            "hashtagId": "20884",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 134,
+            "end": 140,
+            "hashtagName": "titan",
+            "hashtagId": "195026",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          },
+          {
+            "awemeId": "",
+            "start": 141,
+            "end": 148,
+            "hashtagName": "gender",
+            "hashtagId": "135536",
+            "type": 1,
+            "userId": "",
+            "isCommerce": false,
+            "userUniqueId": "",
+            "secUid": "",
+            "subType": 0
+          }
+        ],
+        "secret": false,
+        "forFriend": false,
+        "digged": false,
+        "itemCommentStatus": 0,
+        "showNotPass": false,
+        "vl1": false,
+        "itemMute": false,
+        "authorStats": {
+          "followingCount": 110,
+          "followerCount": 5656,
+          "heartCount": 114900,
+          "videoCount": 70,
+          "diggCount": 693,
+          "heart": 114900
+        },
+        "privateItem": false,
+        "duetEnabled": true,
+        "stitchEnabled": true,
+        "shareEnabled": true,
+        "isAd": false,
+        "duetDisplay": 0,
+        "stitchDisplay": 0
+      }
+    },
+    "shareMeta": {
+      "title": "\ud835\ude01\ud835\uddf6\ud835\ude01\ud835\uddee\ud835\uddfb <3 || 5.5\ud835\uddf8 on TikTok",
+      "desc": "naomi -> debbie -> liz -> naomi ( 2 ) -> burqq \ud83e\udd70 who's next \u2618 { @naomineo @debbwie @kylolizy @burqq.official } tags \ud83c\udff7 : #fyp #viral #titan #gender"
+    }
+  },
+  {
+    "statusCode": 0,
+    "itemInfo": {
+      "itemStruct": {
+        "id": "6779523201866140930",
+        "desc": "effortless is what I'm going for",
+        "createTime": 1578480761,
+        "video": {
+          "id": "6779523201866140930",
+          "height": 1024,
+          "width": 576,
+          "duration": 34,
+          "ratio": "720p",
+          "cover": "https://p16-sign-sg.tiktokcdn.com/obj/v0201/d4d610c300b1498e86f2e6e5c7bf430c?x-expires=1650175200&x-signature=h40jjeSMKfsVSz3CZEbJofX%2FBuc%3D",
+          "originCover": "https://p16-sign-sg.tiktokcdn.com/obj/v0201/41c65f6ff92d4da2b07e15d6a84f937b_1578480774?x-expires=1650175200&x-signature=GrDOapE%2Fy%2FHazpPLzxgbR22lQNU%3D",
+          "dynamicCover": "https://p16-sign-sg.tiktokcdn.com/obj/v0201/4fae40c4609a4cb9bed1b9aa7ca4a9ad_1578480766?x-expires=1650175200&x-signature=3EjeFTkJrVnl3K1s0%2BCQj8Ei0EI%3D",
+          "playAddr": "https://v16-webapp.tiktok.com/2eb64b8e3d5b750b74e488dbe58c01ba/625bafe2/video/n/v0102/9b089d87c3a748e181fad7ece996af62/?a=1988&br=1780&bt=890&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=eXd.6Hy2Myq8Z59-Lwe2NElwyl7Gb&l=202204170012160102230770220037ED7C&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anZ3PGt0Ond1cjMzZTgzM0ApPGkzNmZlOztnNzU6ZTllOmcucC9lZDFkNV5fLS0xLzRzczQvXmAyMzM1YjVhYGNfMV46Yw%3D%3D&vl=&vr=",
+          "downloadAddr": "https://v16-webapp.tiktok.com/2eb64b8e3d5b750b74e488dbe58c01ba/625bafe2/video/n/v0102/9b089d87c3a748e181fad7ece996af62/?a=1988&br=1780&bt=890&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=eXd.6Hy2Myq8Z59-Lwe2NElwyl7Gb&l=202204170012160102230770220037ED7C&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anZ3PGt0Ond1cjMzZTgzM0ApPGkzNmZlOztnNzU6ZTllOmcucC9lZDFkNV5fLS0xLzRzczQvXmAyMzM1YjVhYGNfMV46Yw%3D%3D&vl=&vr=",
+          "shareCover": [
+            "",
+            "https://p16-sign-sg.tiktokcdn.com/v0201/41c65f6ff92d4da2b07e15d6a84f937b_1578480774~tplv-tiktok-play.jpeg?x-expires=1650758400&x-signature=WF0Llmr63UAyrDIaWX9oF2V7S84%3D",
+            "https://p16-sign-sg.tiktokcdn.com/v0201/41c65f6ff92d4da2b07e15d6a84f937b_1578480774~tplv-tiktokx-share-play.jpeg?x-expires=1650758400&x-signature=ZXU3LKNf2J3sacRkVlWxfIy5GgA%3D"
+          ],
+          "reflowCover": "https://p16-sign-sg.tiktokcdn.com/obj/v0201/d4d610c300b1498e86f2e6e5c7bf430c?x-expires=1650175200&x-signature=h40jjeSMKfsVSz3CZEbJofX%2FBuc%3D",
+          "bitrate": 912232,
+          "encodedType": "normal",
+          "format": "mp4",
+          "videoQuality": "normal",
+          "encodeUserTag": "",
+          "codecType": "h264",
+          "definition": "720p"
+        },
+        "author": {
+          "id": "268861292592181248",
+          "uniqueId": "naomineo",
+          "nickname": "Naomi",
+          "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/eeae1bee2adc528fc3afacb73b8fa8be.jpeg?x-expires=1650326400&x-signature=0k9u4yVqfZmN4bOpLe6reoK6icI%3D",
+          "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tiktok-obj/eeae1bee2adc528fc3afacb73b8fa8be.jpeg?x-expires=1650326400&x-signature=Yp3owNAN21Y%2BAIzP5o1LYuvxbXM%3D",
+          "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tiktok-obj/eeae1bee2adc528fc3afacb73b8fa8be.jpeg?x-expires=1650326400&x-signature=T57c6kNfG%2BYs8dXeF1fzCFupV%2B0%3D",
+          "signature": "Just human",
+          "verified": true,
+          "secUid": "MS4wLjABAAAA_gSazrJzfpR7AFZgEAfYoykOQrDFy_w8sarkKyMNsoouhTQD1WKa-jCSZbYgu1ca",
+          "secret": false,
+          "ftc": false,
+          "relation": 0,
+          "openFavorite": false,
+          "commentSetting": 0,
+          "duetSetting": 0,
+          "stitchSetting": 0,
+          "privateAccount": false,
+          "isADVirtual": false
+        },
+        "music": {
+          "id": "6748076109859915778",
+          "title": "Take Your Man",
+          "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/973f6781d93e4256a3c2061fdcdf0363",
+          "coverThumb": "https://p16-amd-va.tiktokcdn.com/img/tos-useast2a-v-2774/92dca4d19e6d406c9772edde6747699c~c5_100x100.jpeg",
+          "coverMedium": "https://p16-amd-va.tiktokcdn.com/img/tos-useast2a-v-2774/92dca4d19e6d406c9772edde6747699c~c5_200x200.jpeg",
+          "coverLarge": "https://p16-amd-va.tiktokcdn.com/img/tos-useast2a-v-2774/92dca4d19e6d406c9772edde6747699c~c5_720x720.jpeg",
+          "authorName": "Mahogany LOX",
+          "original": false,
+          "duration": 60,
+          "album": "Take Your Man"
+        },
+        "stats": {
+          "diggCount": 276200,
+          "shareCount": 3484,
+          "commentCount": 489,
+          "playCount": 1700000
+        },
+        "isActivityItem": false,
+        "duetInfo": {
+          "duetFromId": "0"
+        },
+        "originalItem": false,
+        "officalItem": false,
+        "secret": false,
+        "forFriend": false,
+        "digged": false,
+        "itemCommentStatus": 0,
+        "showNotPass": false,
+        "vl1": false,
+        "itemMute": false,
+        "authorStats": {
+          "followingCount": 2,
+          "followerCount": 1000000,
+          "heartCount": 28700000,
+          "videoCount": 97,
+          "diggCount": 5681,
+          "heart": 28700000
+        },
+        "privateItem": false,
+        "duetEnabled": true,
+        "stitchEnabled": true,
+        "shareEnabled": true,
+        "stickersOnItem": [
+          {
+            "stickerType": 4,
+            "stickerText": [
+              "when he asks for a pic\ntho you're alr in bed:"
+            ]
+          }
+        ],
+        "isAd": false,
+        "duetDisplay": 0,
+        "stitchDisplay": 0
+      }
+    },
+    "shareMeta": {
+      "title": "Naomi on TikTok",
+      "desc": "effortless is what I'm going for"
+    }
+  },
+  {
+    "statusCode": 0,
+    "itemInfo": {
+      "itemStruct": {
+        "id": "7080831017791147265",
+        "desc": "Reply to @daniellovesemoussy  wait till you see how he is with my daughter \ud83e\udd27",
+        "createTime": 1648634448,
+        "video": {
+          "id": "7080831017791147265",
+          "height": 1024,
+          "width": 576,
+          "duration": 12,
+          "ratio": "720p",
+          "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/36525a648e9541c999668bd74b1a49ee_1648634452?x-expires=1650175200&x-signature=jwTWS64Rur1Pb%2BztEkDSFaZg9i4%3D",
+          "originCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/976359ac2d164f2eb7fd961776a0fee7_1648634449?x-expires=1650175200&x-signature=2zaRWdjpLMgKzL1TfEztyyWxvXk%3D",
+          "dynamicCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/54ac7308731d4e568d17b27f7dc6cbe8_1648634450?x-expires=1650175200&x-signature=%2FWsiP2omeG02E23hc98VxCfq36U%3D",
+          "playAddr": "https://v16-webapp.tiktok.com/ff2a1d5fd84c78fc1c0dd2ed97709ebb/625bafcd/video/tos/alisg/tos-alisg-pve-0037/749d487294dc43e7bfa140612f255928/?a=1988&br=1698&bt=849&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=eXd.6Hy2Myq8ZX9-Lwe2NePwyl7Gb&l=2022041700121701022307915707394E6A&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2gzMzc6Zmw1PDMzODgzNEApOjZmZGU2OWQ4Nzc3ZTUzNWdvLWJtcjRvaC9gLS1kLy1zcy0xLV9fY2AtNl5fYGJgYGE6Yw%3D%3D&vl=&vr=",
+          "downloadAddr": "https://v16-webapp.tiktok.com/ff2a1d5fd84c78fc1c0dd2ed97709ebb/625bafcd/video/tos/alisg/tos-alisg-pve-0037/749d487294dc43e7bfa140612f255928/?a=1988&br=1698&bt=849&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=eXd.6Hy2Myq8ZX9-Lwe2NePwyl7Gb&l=2022041700121701022307915707394E6A&lr=tiktok&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2gzMzc6Zmw1PDMzODgzNEApOjZmZGU2OWQ4Nzc3ZTUzNWdvLWJtcjRvaC9gLS1kLy1zcy0xLV9fY2AtNl5fYGJgYGE6Yw%3D%3D&vl=&vr=",
+          "shareCover": [
+            "",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/976359ac2d164f2eb7fd961776a0fee7_1648634449~tplv-tiktok-play.jpeg?x-expires=1650758400&x-signature=SfWVyOLV9TVjTbXUoGrab0CjEeM%3D",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/976359ac2d164f2eb7fd961776a0fee7_1648634449~tplv-tiktokx-share-play.jpeg?x-expires=1650758400&x-signature=DfLKGc1VoyWKeFI2JN14bdVfr7Q%3D"
+          ],
+          "reflowCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/36525a648e9541c999668bd74b1a49ee_1648634452?x-expires=1650175200&x-signature=jwTWS64Rur1Pb%2BztEkDSFaZg9i4%3D",
+          "bitrate": 869722,
+          "encodedType": "normal",
+          "format": "mp4",
+          "videoQuality": "normal",
+          "encodeUserTag": "",
+          "codecType": "h264",
+          "definition": "720p"
+        },
+        "author": {
+          "id": "268861292592181248",
+          "uniqueId": "naomineo",
+          "nickname": "Naomi",
+          "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/eeae1bee2adc528fc3afacb73b8fa8be.jpeg?x-expires=1650326400&x-signature=0k9u4yVqfZmN4bOpLe6reoK6icI%3D",
+          "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tiktok-obj/eeae1bee2adc528fc3afacb73b8fa8be.jpeg?x-expires=1650326400&x-signature=Yp3owNAN21Y%2BAIzP5o1LYuvxbXM%3D",
+          "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tiktok-obj/eeae1bee2adc528fc3afacb73b8fa8be.jpeg?x-expires=1650326400&x-signature=T57c6kNfG%2BYs8dXeF1fzCFupV%2B0%3D",
+          "signature": "Just human",
+          "verified": true,
+          "secUid": "MS4wLjABAAAA_gSazrJzfpR7AFZgEAfYoykOQrDFy_w8sarkKyMNsoouhTQD1WKa-jCSZbYgu1ca",
+          "secret": false,
+          "ftc": false,
+          "relation": 0,
+          "openFavorite": false,
+          "commentSetting": 0,
+          "duetSetting": 0,
+          "stitchSetting": 0,
+          "privateAccount": false,
+          "isADVirtual": false
+        },
+        "music": {
+          "id": "6964415219083053058",
+          "title": "happier",
+          "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/8d4403179cc74ca9ba7a47995692236c",
+          "coverThumb": "https://p16-amd-va.tiktokcdn.com/img/tos-useast2a-v-2774/5219057386134173b8bafec3616eb6ef~c5_100x100.jpeg",
+          "coverMedium": "https://p16-amd-va.tiktokcdn.com/img/tos-useast2a-v-2774/5219057386134173b8bafec3616eb6ef~c5_200x200.jpeg",
+          "coverLarge": "https://p16-amd-va.tiktokcdn.com/img/tos-useast2a-v-2774/5219057386134173b8bafec3616eb6ef~c5_720x720.jpeg",
+          "authorName": "Olivia Rodrigo",
+          "original": false,
+          "duration": 60,
+          "album": "SOUR"
+        },
+        "stats": {
+          "diggCount": 610200,
+          "shareCount": 1960,
+          "commentCount": 1960,
+          "playCount": 4400000
+        },
+        "isActivityItem": false,
+        "duetInfo": {
+          "duetFromId": "0"
+        },
+        "originalItem": false,
+        "officalItem": false,
+        "textExtra": [
+          {
+            "awemeId": "",
+            "start": 9,
+            "end": 28,
+            "hashtagName": "",
+            "hashtagId": "",
+            "type": 0,
+            "userId": "7022636847315928069",
+            "isCommerce": false,
+            "userUniqueId": "ilovemybed16",
+            "secUid": "MS4wLjABAAAAHpFu8nHm79uTzsJSIfAl-_JyjwzeEV0qiseH7aXUIyWkp7uNvStzbGtXGCxgJ71y",
+            "subType": 2
+          }
+        ],
+        "secret": false,
+        "forFriend": false,
+        "digged": false,
+        "itemCommentStatus": 0,
+        "showNotPass": false,
+        "vl1": false,
+        "itemMute": false,
+        "authorStats": {
+          "followingCount": 2,
+          "followerCount": 1000000,
+          "heartCount": 28700000,
+          "videoCount": 97,
+          "diggCount": 5681,
+          "heart": 28700000
+        },
+        "privateItem": false,
+        "duetEnabled": false,
+        "stitchEnabled": true,
+        "shareEnabled": true,
+        "isAd": false,
+        "duetDisplay": 0,
+        "stitchDisplay": 0
+      }
+    },
+    "shareMeta": {
+      "title": "Naomi on TikTok",
+      "desc": "Reply to @daniellovesemoussy  wait till you see how he is with my daughter \ud83e\udd27"
+    }
+  }
+]
