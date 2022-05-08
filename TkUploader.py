@@ -1,6 +1,6 @@
 '''
 Upload video to TikTok in Automation
-1. using Selenium
+1. using Selenium: pip install undetected_chromedriver
 2. Reference: https://github.com/ultrafunkamsterdam/undetected-chromedriver
 '''
 from selenium.webdriver.common.by import By
@@ -35,7 +35,9 @@ def set_caption_tag(tags_str):
         for tag_name in tags_list:
             if tag_name == '' : continue
             caption_input_element.send_keys("#{}".format(tag_name))
+            time.sleep(2)
             caption_input_element.send_keys(Keys.RETURN)
+            time.sleep(1)
     except Exception as e:
         print("Error: {}".format(e))
 
@@ -56,20 +58,21 @@ if __name__ == "__main__":
     driver = uc.Chrome(options=options)
     # login manually
     time.sleep(5)
-    driver.get('https://www.tiktok.com/login')
-    time.sleep(10)
+    driver.get('https://www.tiktok.com/login/?lang=en')
+    time.sleep(5)
 
     driver.get('https://www.tiktok.com/upload/?lang=en')
     # switch to iframe
     WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.TAG_NAME, "iframe")))
+    # elems = driver.find_elements(by = By.TAG_NAME, value = 'iframe')
     driver.switch_to.frame(0)
     driver.implicitly_wait(1)
 
     video_path = "video/cat eating meal.mp4"
-    upload_video(video_path)
-    driver.implicitly_wait(4)
-    tags_str = "#cat"
+    upload_video(os.path.abspath(video_path))
+    time.sleep(5)
+    tags_str = "cat eating meal #cat"
     set_caption_tag(tags_str)
     driver.implicitly_wait(3)
-    click_post()
+    # click_post()
     time.sleep(3)
